@@ -1,6 +1,6 @@
 # Electrophysiology-Analysis
 
-Python scripts for analyzing electrophysiology data from patch-clamp experiments. This repository focuses on analyzing key parameters like resting membrane potential (RMP), spike frequency, and amplitude in wild-type and disease models.
+Python scripts for analyzing electrophysiology data from patch-clamp experiments. This repository focuses on analyzing key parameters like resting membrane potential (RMP), spike frequency, and amplitude in control and mutant cells.
 ---
 
 ## Features
