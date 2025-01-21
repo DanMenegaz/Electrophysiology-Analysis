@@ -9,7 +9,7 @@ Python scripts for analyzing electrophysiology data from patch-clamp experiments
 - **Spike Frequency Analysis**: Determine spontaneous action potential frequencies.
 - **Amplitude Calculation**: Measure action potential amplitudes within specified voltage ranges.
 - **Statistical Analysis**: Perform ANOVA and descriptive statistics.
-- **Baseline Adjustment**: Normalize and clean electrophysiology data.
+- **Baseline Adjustment**: Normalize Baseline for Amplitude.
 
 ---
 
