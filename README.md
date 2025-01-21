@@ -28,7 +28,7 @@ Python scripts for analyzing electrophysiology data from patch-clamp experiments
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DanMenegaz/Electrophysiology-Analysis.git
+   git clone https://github.com/DanusaMenegaz/Electrophysiology-Analysis.git
    cd Electrophysiology-Analysis
 
    python "Amplitude (mV).py"
